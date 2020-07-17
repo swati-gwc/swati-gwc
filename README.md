@@ -2,11 +2,11 @@
 I am </br>
 # Swati Tripathi :octocat:</br>
 ### B Tech CSE Student</br>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-### A Learner , hustler and go-getter 
+<img align='right' src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="230">
+ A Learner , hustler and go-getter 
 
-<u>About Me</u>
-I am simple woman who likes to build cool things. 
+<u>About Me</u></br>
+I am simple woman who likes to build cool things. </br>
 
 
 <i>Feel free to Connect with me on </i></br>
