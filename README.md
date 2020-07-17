@@ -1,9 +1,9 @@
-### Namaste :folded hands:
-I am 
-#Swati Tripathi:octocat:
-B Tech CSE Student
+### Namaste :pray:<br>
+I am <br>
+# Swati Tripathi:octocat:<br>
+## B Tech CSE Student<br>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-*A Learner , hustler and go-getter* 
+### *A Learner , hustler and go-getter* 
 
 Feel free to Connect with me on 
 [![LinkedIn](https://www.linkedin.com/in/swati-tripathi-765615187/) [![Twitter](https://twitter.com/SwatiTr06172888) [![Instagram](https://www.instagram.com/tulikan_art/?hl=en)
