@@ -1,4 +1,19 @@
-### Hi there 👋
+### Namaste :folded hands:
+I am 
+#Swati Tripathi:octocat:
+B Tech CSE Student
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+*A Learner , hustler and go-getter* 
+
+Feel free to Connect with me on 
+[![LinkedIn](https://www.linkedin.com/in/swati-tripathi-765615187/) [![Twitter](https://twitter.com/SwatiTr06172888) [![Instagram](https://www.instagram.com/tulikan_art/?hl=en)
+ 
+Read My thoughts on [Medium](https://medium.com/@swatitripathi2000)
+
+To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)
+
+Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)
+
 
 <!--
 **swati-gwc/swati-gwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
