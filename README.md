@@ -1,5 +1,5 @@
-### नमस्ते :pray:<br>
-I am </br>
+### नमस्ते :pray: 
+Welcome to my page, I am 
 # Swati Tripathi :octocat:</br>
 ### B Tech CSE Student</br>
 <img align='right' src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="230">
