@@ -1,7 +1,7 @@
 ### नमस्ते :pray: <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="290">
-### Happy to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=swati-gwc.swati-gwc)</br>
+Happy to see you! 🤩 !<img src="https://komarev.com/ghpvc/?username=swati-gwc" alt="counter" /></br>
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br></br>
-<img src="https://komarev.com/ghpvc/?username=swati-gwc" alt="counter" /></br>
+
 
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
