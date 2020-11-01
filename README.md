@@ -1,6 +1,6 @@
 ### नमस्ते :pray: <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="290">
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br>
-
+img src="https://komarev.com/ghpvc/?username=swati-gwc" alt="counter" />
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
 Currently pursing B Tech CSE (Batch: 2018-22) </br>
