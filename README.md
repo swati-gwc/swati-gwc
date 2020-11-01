@@ -4,7 +4,6 @@ Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
 Currently pursing B Tech CSE (Batch: 2018-22) </br>
-
 #### Find Me Around the Web </br>
 <a href="https://twitter.com/SwatiTr0617288">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,10 +18,12 @@ Currently pursing B Tech CSE (Batch: 2018-22) </br>
   <img align="left" alt="Swati's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a></br>
 
+
 Read My thoughts on [Medium](https://medium.com/@swatitripathi2000)</br>
 To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)</br>
 Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)</br>
 Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/UCATB0CTOfwOmLkXhskTLGQA?view_as=subscriber)</br>
+
 
 
 ![Swati Tripathi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=swati-gwc&show_icons=true&include_all_commits=true&theme=radical)
