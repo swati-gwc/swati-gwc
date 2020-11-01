@@ -1,11 +1,11 @@
 ### नमस्ते :pray: 
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br>
-<img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="100">
+
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
 Currently pursing B Tech CSE (Batch: 2018-22) </br>
 
-
+<img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="400">
 #### Find Me Around the Web </br>
 <a href="https://twitter.com/SwatiTr0617288">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
