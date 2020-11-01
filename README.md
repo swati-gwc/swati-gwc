@@ -1,12 +1,12 @@
 ### नमस्ते :pray: 
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br>
-<img align='right' src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="230">
+
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
 Currently pursing B Tech CSE (Batch: 2018-22) </br>
+<img align='right'alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="100">
 
-
-# Find Me Around the Web </br>
+#### Find Me Around the Web </br>
 <a href="https://twitter.com/SwatiTr0617288">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,8 +21,7 @@ Currently pursing B Tech CSE (Batch: 2018-22) </br>
 </a><br />
 
  
-Read My thoughts on [Medium](https://medium.com/@swatitripathi2000)
-
+Read My thoughts on [Medium](https://medium.com/@swatitripathi2000)</br>
 To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)</br>
 Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)</br>
 Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/UCATB0CTOfwOmLkXhskTLGQA?view_as=subscriber)</br>
