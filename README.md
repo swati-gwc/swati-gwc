@@ -21,6 +21,11 @@ To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hu
 Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)
 
 
+![Swati Tripathi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=swati-gwc&show_icons=true&include_all_commits=true&theme=radical)
+
+![Swati Tripathi Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=swati-gwc&layout=compact&theme=radical)
+
+
 <!--
 **swati-gwc/swati-gwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
