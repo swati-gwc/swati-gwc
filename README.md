@@ -1,5 +1,4 @@
-<img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="300">
-### नमस्ते :pray: 
+### नमस्ते :pray: <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="290">
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br>
 
 <u>About Me :</u></br>
