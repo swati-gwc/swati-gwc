@@ -1,5 +1,5 @@
 ### नमस्ते :pray: <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/7TwJVjoEwud4vAok0w/source.gif" width="290">
-Happy to see you! 🤩 !<img src="https://komarev.com/ghpvc/?username=swati-gwc" alt="counter" /></br>
+Happy to see you! 🤩 !  <img src="https://komarev.com/ghpvc/?username=swati-gwc" alt="counter" /></br>
 Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat:</br></br>
 
 
