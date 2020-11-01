@@ -17,9 +17,8 @@ Currently pursing B Tech CSE (Batch: 2018-22) </br>
 </a>
 <a href="https://www.hackerrank.com/swati_gwc/">
   <img align="left" alt="Swati's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a><br />
+</a></br>
 
- </br>
 Read My thoughts on [Medium](https://medium.com/@swatitripathi2000)</br>
 To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)</br>
 Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)</br>
