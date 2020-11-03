@@ -8,7 +8,7 @@ I am a simple woman who likes to build cool things.</br>
 Currently pursuing B Tech CSE (Batch: 2018-22) </br>
 
 #### Find Me Around the Web </br>
-<a href="https://twitter.com/SwatiTr0617288">
+<a href="https://twitter.com/SwatiTr06172888">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/swati-tripathi-765615187/">
