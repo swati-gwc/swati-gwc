@@ -23,11 +23,12 @@ Currently pursuing B Tech CSE (Batch: 2018-22) </br>
 
 
 
-Read My thoughts on [Medium](https://swatispeaks.medium.com/)</br>
-To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)</br>
-Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)</br>
-Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/UCATB0CTOfwOmLkXhskTLGQA?view_as=subscriber)</br>
-View my presentations : [Slideshare](https://www.slideshare.net/SwatiTripathi44/presentations)</br>
+Read My thoughts on [Medium](https://swatispeaks.medium.com/)<br>
+View my front-end web development skills here: [CodePen](https://codepen.io/swati_gwc)<br>
+Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)<br>
+Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/UCATB0CTOfwOmLkXhskTLGQA?view_as=subscriber)<br>
+View my presentations : [Slideshare](https://www.slideshare.net/SwatiTripathi44/presentations)<br>
+To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)<br>
 
 
 
