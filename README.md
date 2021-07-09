@@ -5,7 +5,8 @@ Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat
 
 <u>About Me :</u></br>
 I am a simple woman who likes to build cool things.</br>
-Currently pursuing B Tech CSE (Batch: 2018-22) </br>
+Currently pursuing B Tech CSE (Batch: 2018-22)<br/>
+I am open for research/ project/ hackathon collaboration.<br/>You can reach out to me via any social handles</br>
 
 #### Find Me Around the Web </br>
 <a href="https://twitter.com/SwatiTr06172888">
@@ -28,15 +29,17 @@ View my front-end web development skills here: [CodePen](https://codepen.io/swat
 Follow my passion for art here: [Tulikan_art](https://www.instagram.com/tulikan_art/?hl=en)<br>
 Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/UCATB0CTOfwOmLkXhskTLGQA?view_as=subscriber)<br>
 View my presentations : [Slideshare](https://www.slideshare.net/SwatiTripathi44/presentations)<br>
-To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)<br>
+To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)
 
+![Swati Tripathi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=swati-gwc&show_icons=true&include_all_commits=true&theme=gruvbox)
+<!-- ![Swati Tripathi Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=swati-gwc&layout=compact&theme=gruvbox) -->
+[![Swati Tripathi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swati-gwc&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![Swati Tripathi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=swati-gwc&show_icons=true&include_all_commits=true&theme=radical)
-![Swati Tripathi Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=swati-gwc&layout=compact&theme=radical)
 
 ### Show some ❤️ by starring some of the repositories!
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swati_gwc)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
 
 <!--
 **swati-gwc/swati-gwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
