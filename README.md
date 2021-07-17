@@ -4,7 +4,7 @@ Welcome to my page, I am [Swati Tripathi](https://swati-gwc.github.io/) :octocat
 
 
 <u>About Me :</u></br>
-I am a simple woman who likes to build cool things.</br>
+Someone who loves to code and build cool stuff for web.</br>
 Currently pursuing B Tech CSE (Batch: 2018-22)<br/>
 I am open for research/ project/ hackathon collaboration.<br/>You can reach out to me via any social handles</br>
 
