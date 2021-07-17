@@ -31,12 +31,16 @@ Whatever little I know I share here : [YouTube](https://www.youtube.com/channel/
 View my presentations : [Slideshare](https://www.slideshare.net/SwatiTripathi44/presentations)<br>
 To Buy My merchandise visit: [Swati's Hub](https://teespring.com/stores/swati-hub)
 
-![Swati Tripathi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=swati-gwc&show_icons=true&include_all_commits=true&theme=gruvbox)
-<!-- ![Swati Tripathi Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=swati-gwc&layout=compact&theme=gruvbox) -->
-[![Swati Tripathi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swati-gwc&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center">
+  <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=swati-gwc&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&theme=gruvbox" />
+  <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati-gwc&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css&theme=gruvbox&langs_count=10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=swati-gwc&theme=neon-dark"/>
+  
 ### Show some ❤️ by starring some of the repositories!
+</p>
+
+
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swati_gwc)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
